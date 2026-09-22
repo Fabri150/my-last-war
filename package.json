@@ -1,0 +1,29 @@
+{
+  "name": "my-last-war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest run"
+  }
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabri150/my-last-war.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fabri150/my-last-war/issues"
+  },
+  "homepage": "https://github.com/Fabri150/my-last-war#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.1"
+  }
+}
