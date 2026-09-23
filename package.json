@@ -8,8 +8,7 @@
   },
   "scripts": {
     "test": "vitest run"
-  }
-,
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Fabri150/my-last-war.git"
@@ -23,6 +22,7 @@
   },
   "homepage": "https://github.com/Fabri150/my-last-war#readme",
   "devDependencies": {
+    "@vitest/coverage-v8": "^5.0.1",
     "typescript": "^7.0.2",
     "vitest": "^5.0.1"
   }
